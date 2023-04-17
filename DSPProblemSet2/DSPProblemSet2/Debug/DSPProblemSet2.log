@@ -1,0 +1,27 @@
+﻿  ShakerSortableIntVector.cpp
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(17,27): error C2146: syntax error: missing ';' before identifier '­'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(17,27): error C2065: '­': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(21,45): error C2146: syntax error: missing ';' before identifier '­'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(21,45): error C2065: '­': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(21,53): error C2146: syntax error: missing ')' before identifier 'i'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(21,54): error C2059: syntax error: ';'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(21,56): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(23,4): error C2059: syntax error: 'if'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(24,4): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(25,10): error C2065: 'i': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(25,13): error C2065: 'i': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(28,13): error C2146: syntax error: missing ';' before identifier '­­'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(28,13): error C2065: '­­': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(30,53): error C2146: syntax error: missing ')' before identifier '­­'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(30,57): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(30,53): error C2065: '­­': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(32,4): error C2059: syntax error: 'if'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(33,4): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(34,10): error C2065: 'i': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(34,13): error C2065: 'i': undeclared identifier
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(37,13): error C2143: syntax error: missing ';' before '++'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(37,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(38,2): error C2059: syntax error: '}'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(38,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(39,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dimitrija\source\repos\DSPProblemSet2\DSPProblemSet2\ShakerSortableIntVector.cpp(39,1): error C2059: syntax error: '}'
